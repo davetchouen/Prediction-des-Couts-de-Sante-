@@ -22,7 +22,7 @@ Le jeu de données contient les colonnes suivantes :
 - `region` : région géographique
 - `charges` : frais médicaux facturés
 
-## 🔍 Analyse exploratoire
+## 🔍 Analyse exploratoire (toutes les analyses sont dans le fichier Assurance santé analyse-1.ipynb)
 - Distribution uniforme de l’âge sauf pour 18-19 ans (plus représentés).
 - IMC suit une distribution gaussienne centrée autour de 30.
 - Tabagisme : 20% de fumeurs, plus fréquents chez les hommes dans l’échantillon.
